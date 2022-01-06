@@ -13,10 +13,11 @@ h1{
 }
 .upper-text{
     width: 50%;
-    padding: 1% 0 0 10%;
+    padding: 10% 0 0 10%;
 }
 .upper-text img{
     width: 60%;
+    margin-bottom: 15%;
 }
 .border{
     position: relative;
@@ -45,4 +46,95 @@ p{
     color: white;
     padding: 1% 5%;
     border-radius: 15px;
+    
+}
+.Middle-header{
+    text-align: center;
+    padding-top: 10%;
+}
+.middle-text{
+    display: flex;
+}
+h2{
+    font-size: 30px;
+    text-align: left;
+}
+.box-one{
+    padding: 2%;
+    background-image: url(images/shapes/Untitled-6.jpg);
+    border-radius: 10%;
+    width: 60%;
+    margin:2% 0% 0 10%;
+    
+}
+.box-two{
+    padding: 2%;
+    background-image: url(images/shapes/Untitled-5.jpg);
+    border-radius: 10%;
+    width: 60%;
+    margin:2% 1% 0 2%;
+}
+.box-three{
+    padding: 2%;
+    background-image: url(images/shapes/Untitled-7.jpg);
+    border-radius: 10%;
+    width: 60%;
+    margin:2% 10% 0 1%;
+}
+.image{
+    width: 40%;
+}
+.desc{
+    display: flex;
+    margin-top: 7%;
+    align-items: center;
+    background: url(images/shapes/shape-1.png) no-repeat left;
+    
+    background-size: 20%;
+    
+    
+    
+}
+.description-text img{
+    width: 60%;
+    margin-left: 25%;  
+}
+.description-text{
+    width: 50%;
+    margin-left: -40px;
+}
+.know-about-us{
+    display: flex;
+    align-items: center;
+    
+    background: url(images/shapes/shape-1.png) no-repeat right 11% bottom 4% ;
+    background-size: 12%;    
+}
+.our-job{
+    margin-top: 2%;
+    text-align: center;
+}
+.job-desc{
+    display: flex;
+    align-items: center;
+    margin-top: 5%;
+}
+.app img{
+    width: 40%;
+    margin-left: 35%;
+}
+.app{
+    width: 50%;
+    margin-left: -70px;
+}
+footer{
+    text-align: center;
+    background-color: purple;
+    color: white;
+    margin-left: -1%;
+    margin-right: -1%;
+    margin-bottom: -1%;
+    padding: 3%;
+    
+
 }
